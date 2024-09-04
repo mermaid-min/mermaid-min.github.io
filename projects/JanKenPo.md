@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/JanKenPo.png
+image: img/rockpaperscissor.png
 title: "JanKenPo"
 date: 2023-10-15
 published: true
