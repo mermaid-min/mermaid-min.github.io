@@ -7,8 +7,8 @@ title: "TypeScript Unveiled: Lesson Learned from Adopting to New Tools
 date: 2024-09-03
 published: true
 labels:
-  - Programming
-  - Mathematics
+  - TypeScript
+  - Learning
 ---
 
 
