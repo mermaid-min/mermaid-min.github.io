@@ -16,4 +16,6 @@ The Vending Machine uses an array to store snack objects, with each snack having
 
 Through this project, I deepened my understanding of array manipulation, exception handling, and user input processing in Java.
 
-vendingMachineJava
+Here is an example of the Java code I wrote to handle the vending machine's logic and user interactions:
+
+<img class="img-fluid" src="../img/vendingMachineJava.png">
