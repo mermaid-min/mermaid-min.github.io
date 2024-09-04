@@ -9,6 +9,8 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: "I developed a webpage for CS."
+summary: "I developed a webpage for people who are interested in CS."
+
+
 ---
 
