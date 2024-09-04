@@ -9,7 +9,9 @@ labels:
   - Programming
   - Mathematics
 ---
-<img width="200px" src="../img/mathInProgramming.png" class="img-thumbnail" > As someone who chose to study programming because of a love for math, I often find myself wondering if mathematics can really help me break through the barriers I face in programming. When I hit a tough problem or struggle with making my code more efficient, I ask myself if my mathematical background can offer a solution.
+<img width="200px" src="../img/mathInProgramming.png" class="rounded float-start pe-4">
+
+As someone who chose to study programming because of a love for math, I often find myself wondering if mathematics can really help me break through the barriers I face in programming. When I hit a tough problem or struggle with making my code more efficient, I ask myself if my mathematical background can offer a solution.
 
 Math has always been a passion of mine, and I’ve started to see how concepts like statistics and linear algebra can be useful in programming, even though I haven’t yet worked on data science projects. For instance, mathematical thinking helps me approach problems logically and find systematic solutions. This skill is crucial when debugging code or optimizing performance.
 
