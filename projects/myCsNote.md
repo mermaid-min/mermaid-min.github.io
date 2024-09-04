@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/myCsNote1.jpg
 title: "myCsNote"
 date: 2024-09
 published: false
