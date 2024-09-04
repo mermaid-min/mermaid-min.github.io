@@ -10,4 +10,5 @@ labels:
 summary: "Playing Rock Paper Scissors with your computer! You can also see the results in the ICS211 folder, the 'scores.txt' file."
 ---
 
+
 <img class="img-fluid" src="../img/JanKenPo.png">
