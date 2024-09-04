@@ -21,4 +21,4 @@ In this project, I gained hands-on experience with GUI design in Java, event han
 
 Here is an example of the Java code I wrote to handle the game's logic and user interactions:
 
-<img class="img-fluid" src="../img/jankenpojava.png">
+<img class="img-fluid" src="../img/jankenpoJava.png">
