@@ -9,7 +9,7 @@ labels:
   - Programming
   - Mathematics
 ---
-
+<img width="200px" src="../img/mathInProgramming.png" class="img-thumbnail" >
 
 As someone who chose to study programming because of a love for math, I often find myself wondering if mathematics can really help me break through the barriers I face in programming. When I hit a tough problem or struggle with making my code more efficient, I ask myself if my mathematical background can offer a solution.
 
