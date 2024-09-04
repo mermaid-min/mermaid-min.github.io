@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="250px" src="../img/ts.png" class="img-thumbnail" >
+<img width="300px" src="../img/ts.png" class="img-thumbnail" >
 
 ## Discovering the Value of TypeScript
 At the beginning of my second year of college, the pandemic hit, and I put my studies on hold to give birth. To stay engaged with my field, I began watching YouTube videos related to computer science to refresh my knowledge and keep up with industry trends. During this time, I often heard that TypeScript might not be the best choice for every project due to its added complexity, extra setup, and potential to slow down development.
