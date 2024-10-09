@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" src="../img/bootstrap.png" class="rounded float-start pe-4">
+<img width="300px" src="../img/bootstrap.png" class="img-thumbnail">
 
 Starting anything new can be overwhelming, and learning Bootstrap was no different. As a beginner, the thought of working with a framework sounded difficult—almost intimidating. Initially, I had a feeling of rejection toward it, like a mental block that made me hesitate. However, as with anything, once I got past the initial reluctance, I found myself opening the door to a whole new world. The thrill of learning something new quickly took over the fear. In class, we explored just a small part of what Bootstrap could do. It wasn’t much, but it was enough to spark my curiosity. 
 
