@@ -14,7 +14,9 @@ labels:
 
 <img width="300px" src="../img/bootstrap.png" class="rounded float-start pe-4">
 
-Starting anything new can be overwhelming, and learning Bootstrap was no different. As a beginner, the idea of working with a framework sounded difficult—almost intimidating. I had a feeling of rejection toward it at first, like a mental block that made me hesitate. However, as with anything, once I got past the initial reluctance, I found myself opening the door to a whole new world. The thrill of learning something new quickly took over the fear. In class, we touched on a small part of what Bootstrap could do. It wasn’t much, but it was enough to spark my curiosity. Bootstrap effectively simplifies web design, transforming a process that can often feel overwhelming into something more manageable. Although I've just begun to explore its features, I'm eager to learn more.
+Starting anything new can be overwhelming, and learning Bootstrap was no different. As a beginner, the thought of working with a framework sounded difficult—almost intimidating. Initially, I had a feeling of rejection toward it, like a mental block that made me hesitate. However, as with anything, once I got past the initial reluctance, I found myself opening the door to a whole new world. The thrill of learning something new quickly took over the fear. In class, we explored just a small part of what Bootstrap could do. It wasn’t much, but it was enough to spark my curiosity. 
+
+Bootstrap simplifies web design, transforming a process that can often feel overwhelming into something more manageable. Although I’ve only just begun to explore its features, I’m eager to dive deeper. The framework streamlines the process of building web pages, reducing the effort and coding knowledge typically required.
 
 ### The Power of Simplicity and Consistency
 
@@ -30,5 +32,5 @@ On the other hand, if you're aiming to create a one-of-a-kind website with intri
 
 ### Final Thoughts: More to Explore
 
-Bootstrap, for me, was a challenge at first, but now it feels more like a gateway to learning even more about web development. What started as an intimidating framework turned into something that helped me realize how exciting and manageable frontend design can be. Sure, it’s not perfect for every project, but it does exactly what it’s meant to: make web development accessible and consistent. That’s the power of Bootstrap. 
-I know I’ve only learned a fraction of what it can do, but I’m eager to see where this new knowledge will take me.
+Bootstrap, for me, started as a challenge but has since evolved into a gateway for further exploration in web development. What started as an intimidating framework turned into something that helped me realize how exciting and manageable frontend design can be. Sure, it’s not perfect for every project, but it does exactly what it’s meant to: make web development accessible and consistent. That’s the power of Bootstrap. 
+I know I’ve only learned a fraction of what Bootstrap can do, but I’m eager to see where this new knowledge will lead me.
