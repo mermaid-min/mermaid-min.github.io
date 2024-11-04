@@ -6,7 +6,7 @@ title: " TasteShare: A Recipe and Cooking Community"
 date: 2024-11-3
 published: true
 labels:
-  - Java
+  - Project
 summary: ""
 ---
 
@@ -57,7 +57,7 @@ Becoming an Author: After regularly commenting and sharing tips, a user gains Au
 Admin Recipe Approval: An admin reviews a newly submitted recipe for clarity and appropriateness before making it live on the site.
 Notifications and Updates: A user receives notifications when a favorite recipe category, such as baking, has new recipes posted.
 
-## Beyond the Basics
+## Beyond the ideas
 After implementing the core functionality, TasteShare could expand with the following features:
 Email and SMS Notifications for updates on popular recipes, new responses, and user mentions.
 Recipe Video Tutorials where authors can add short videos to accompany recipe instructions.
