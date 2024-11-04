@@ -22,4 +22,4 @@ summary: "I am developing a webpage for people who are interested in CS."
 
   In this project, I will be gaining valuable experience in web development. Through the project, including HTML and JavaScript for both client-side programming, CSS for styling, API integration for dynamic data handling, and SQL for database management. Additionally, I will work with Next.js to develop a responsive and modern user interface. This project will also enhance my understanding of HTTP protocols, and help me build a responsive, user-friendly website.
 
-To see my ongoing project, click [here](https://github.com/mermaid-min/myCsNote).
+To see my ongoing project, click [here](https://github.com/mermaid-min/myCSnote.git).
