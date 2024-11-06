@@ -10,6 +10,8 @@ labels:
 summary: ""
 ---
 
+# TasteShare: A Recipe and Cooking Community
+**Author:** Minkyeong Kim, Hoopuiwa Perry
 
 ## Overview
 
@@ -18,6 +20,7 @@ summary: ""
 **The Solution:** TasteShare is a platform where users can browse recipes, adjust serving sizes, and share comments or tips with other users. As users contribute by posting comments and interacting with recipes, they can eventually unlock "Author" status, allowing them to share their own recipes.
 
 ## Key Features
+
 
 **Recipe Customization**
 - Adjustable Portions: Users can modify recipe quantities to fit their needs (limited to basic ingredient scaling).
@@ -59,8 +62,8 @@ Author Status: Displays "Author" badge for qualified users.
 Content Moderation: View and manage comments or flagged content.
 
 ## Use Case Scenarios
-1. Recipe Browsing and Portion Adjustment: A user browses for a recipe, adjusts the portions, and follows the updated ingredient list.
-2. Community Commenting: Users share tips on a recipe page, helping each other with substitutions or preparation ideas.
-3. Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
-4. Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
+- Recipe Browsing and Portion Adjustment: A user browses for a recipe, adjusts the portions, and follows the updated ingredient list.
+- Community Commenting: Users share tips on a recipe page, helping each other with substitutions or preparation ideas.
+- Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
+- Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
 
