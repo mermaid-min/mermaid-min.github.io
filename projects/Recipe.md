@@ -10,63 +10,66 @@ labels:
 summary: ""
 ---
 
+
 ## Overview
-The Problem: For many home cooks, finding recipes in the right portions, connecting with like-minded food enthusiasts, and sharing one’s own culinary ideas can be challenging. TasteShare addresses these needs by offering a platform where users can easily adjust recipe portions, share their cooking experiences, and engage in culinary discussions. Additionally, frequent contributors can become recipe authors, fostering a collaborative space for everyone from casual cooks to dedicated foodies.
-The Solution: TasteShare is a user-driven platform designed to provide an engaging, supportive cooking community. Users can access and customize recipes, share insights, ask questions, and contribute their own recipes over time. TasteShare makes cooking accessible by enabling portion adjustments, encouraging community discussions, and empowering users to become recipe authors as they engage more with the platform.
+
+The Problem: Finding recipes with customizable portions and connecting with other home cooks can be challenging for beginners and enthusiasts alike. TasteShare aims to address these issues with a simplified web application where users can adjust recipe portions and engage with a small community.
+
+The Solution: TasteShare is a platform where users can browse recipes, adjust serving sizes, and share comments or tips with other users. As users contribute by posting comments and interacting with recipes, they can eventually unlock "Author" status, allowing them to share their own recipes.
 
 ## Key Features
-1. Recipe Customization and Scaling
-Adjustable Portions: Users can select the desired portion size, and the platform will automatically adjust ingredient amounts.
-Recipe Categories: Recipes are organized by cuisine (e.g., Italian, Korean, Filipino) and type (e.g., baking), making it easy for users to find dishes by category.
-Nutritional Information: Display of nutritional values per portion, based on selected adjustments.
-2. Community Engagement and User Contributions
-Recipe Submission and Author Role: Frequent contributors who actively participate through posts and comments can gain “Author” status, allowing them to submit their own recipes.
-Commenting and Rating System: Users can comment on recipes, rate them, and share their feedback to help others in the community.
-Questions and Discussions: Users can post questions about recipes, cooking techniques, or ingredients, fostering real-time discussions and sharing.
-3. Social Features and Notifications
-Notifications: Users receive alerts for new recipes in their favorite categories, responses to their comments or questions, and updates from favorite authors.
-Activity Feed: A feed showing recent comments, recipe uploads, and community discussions keeps users up to date on the latest trends and tips.
-User Profiles: Members can create profiles to track their contributions, favorite recipes, and engagement history.
-4. Dashboard and Reporting for Admins
-Admin Panel for Recipe and User Management: Admins can oversee recipe submissions, moderate comments, and manage user roles.
-Engagement Reports: Reports on community engagement (comments, likes, popular recipes) to help guide content focus.
-Author Activity Monitoring: Track user activity to ensure only the most engaged contributors attain Author status.
 
-## Approach
-User Registration and Role-Based Access
-Basic User Registration and Login: Users create accounts to save recipes, participate in discussions, and access customization features.
-Author Status and Privileges: Highly active users gain additional privileges to post original recipes.
-Admin Access: Allows for content moderation, recipe approval, and user management.
-Recipe Search and Customization
-Categorized Recipe Library: Recipes organized by cuisine (Italian, Korean, Filipino) and type (baking, grilling, etc.) for easy browsing.
-Portion Adjustments: Users can adjust the number of servings for each recipe, with ingredient amounts recalculated accordingly.
-Recipe Details Page: Each recipe includes instructions, nutritional information, and customizable portions.
-Community Engagement and Notifications
-Interactive Comments: Users can comment, ask questions, and discuss each recipe.
-Push Notifications and Alerts: Notify users of new comments, recipe updates, or responses.
-User Profiles: Users have profiles that showcase their contributions, favorite recipes, and follower count.
-Analytics and Insights for Admins
-Dashboard: Displays popular recipes, active users, and engagement trends.
-Engagement Tracking: Track community activity to reward contributors and highlight popular content.
-Content Moderation: Admin controls for approving, flagging, or removing inappropriate content.
+Recipe Customization
+
+Adjustable Portions: Users can modify recipe quantities to fit their needs (limited to basic ingredient scaling).
+Recipe Categories: Recipes are organized into a few primary categories such as Italian, Korean, Filipino, and Baking for easy browsing.
+Community Engagement
+
+Comment System: Users can comment on recipes to share tips or ask questions.
+Recipe Rating: A simple thumbs-up rating for each recipe to help identify popular options.
+User Profiles
+
+Profile Page: Users can view their saved recipes and see their comment history.
+Author Status: Frequent contributors can unlock “Author” status, allowing them to submit their own recipes.
+Admin Features
+
+Basic Content Moderation: Admins can review and remove inappropriate comments and recipes.
+Technology Stack
+
+## Mockup Pages
+
+Here's a more streamlined version of the mockup pages to keep the project manageable:
+
+Landing Page
+
+Header with Login
+Search Bar: Quick access to search for recipes by keyword.
+Popular Categories: A few main categories (Italian, Korean, Filipino, Baking).
+Footer: Includes links to privacy policy and contact info.
+User Home Page
+
+Profile Summary: Displays basic user info and recent activity.
+Saved Recipes: List of saved recipes.
+Recipe Detail Page
+
+Recipe Information: Title, ingredients, instructions, and an adjustable portion feature.
+Comments Section: Users can leave comments or ask questions.
+Recipe Rating: Users can give a thumbs-up to recipes they like.
+Profile Page
+
+User Info: Name, saved recipes, and a comment history.
+Author Status: Displays "Author" badge for qualified users.
+Admin Dashboard
+
+Content Moderation: View and manage comments or flagged content.
 
 ## Use Case Scenarios
-Recipe Browsing and Portion Adjustment: A user searches for a pasta recipe, selects the portion size, and follows the automatically adjusted ingredient amounts.
-Community Question and Answer: A member posts a question about substituting ingredients in a recipe, and other users or the recipe author respond with suggestions.
-Becoming an Author: After regularly commenting and sharing tips, a user gains Author status, enabling them to post a family recipe for a popular Filipino dish.
-Admin Recipe Approval: An admin reviews a newly submitted recipe for clarity and appropriateness before making it live on the site.
-Notifications and Updates: A user receives notifications when a favorite recipe category, such as baking, has new recipes posted.
 
-## Beyond the ideas
-After implementing the core functionality, TasteShare could expand with the following features:
-Email and SMS Notifications for updates on popular recipes, new responses, and user mentions.
-Recipe Video Tutorials where authors can add short videos to accompany recipe instructions.
-Advanced Search Filters for dietary preferences, cooking time, and difficulty level.
-Ingredient Barcode Scanning to quickly add items to a shopping list or adjust recipes based on available ingredients.
+Recipe Browsing and Portion Adjustment: A user browses for a recipe, adjusts the portions, and follows the updated ingredient list.
+Community Commenting: Users share tips on a recipe page, helping each other with substitutions or preparation ideas.
+Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
+Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
 
 ## Conclusion
-TasteShare aims to create a unique, collaborative environment where cooking enthusiasts can find, adjust, and share recipes while connecting with a vibrant community. By empowering users with customizable recipes and interactive engagement, TasteShare will serve as a one-stop resource for those seeking culinary inspiration, support, and connection.
 
-
-
-
+This simplified TasteShare platform provides essential recipe-browsing, customization, and community engagement features without requiring an extensive feature set. This version will give you practical experience in building a dynamic and interactive web application with manageable scope for a student project.
