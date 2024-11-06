@@ -7,7 +7,7 @@ date: 2024-11-3
 published: true
 labels:
   - Project
-summary: ""
+summary: "TasteShare platform provides essential recipe-browsing, customization, and community engagement features without requiring an extensive feature set."
 ---
 
 # TasteShare: A Recipe and Cooking Community
@@ -40,23 +40,23 @@ summary: ""
 ## Mockup Pages
 
 **Landing Page**
-Header with Login
-Search Bar: Quick access to search for recipes by keyword.
-Popular Categories: A few main categories (Italian, Korean, Filipino, Baking).
-Footer: Includes links to privacy policy and contact info.
+- Header with Login
+- Search Bar: Quick access to search for recipes by keyword.
+- Popular Categories: A few main categories (Italian, Korean, Filipino, Baking).
+- Footer: Includes links to privacy policy and contact info.
 
 **User Home Page**
-Profile Summary: Displays basic user info and recent activity.
-Saved Recipes: List of saved recipes.
+- Profile Summary: Displays basic user info and recent activity.
+- Saved Recipes: List of saved recipes.
 
 **Recipe Detail Page**
-Recipe Information: Title, ingredients, instructions, and an adjustable portion feature.
-Comments Section: Users can leave comments or ask questions.
-Recipe Rating: Users can give a thumbs-up to recipes they like.
+- Recipe Information: Title, ingredients, instructions, and an adjustable portion feature.
+- Comments Section: Users can leave comments or ask questions.
+- Recipe Rating: Users can give a thumbs-up to recipes they like.
 
 **Profile Page**
-User Info: Name, saved recipes, and a comment history.
-Author Status: Displays "Author" badge for qualified users.
+- User Info: Name, saved recipes, and a comment history.
+- Author Status: Displays "Author" badge for qualified users.
 
 **Admin Dashboard**
 Content Moderation: View and manage comments or flagged content.
