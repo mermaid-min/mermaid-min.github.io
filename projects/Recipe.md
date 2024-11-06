@@ -22,9 +22,12 @@ summary: "TasteShare platform provides essential recipe-browsing, customization,
 ## Key Features
 
 
-**Recipe Customization**
-- Adjustable Portions: Users can modify recipe quantities to fit their needs (limited to basic ingredient scaling).
-- Recipe Categories: Recipes are organized into a few primary categories such as Italian, Korean, Filipino, and Baking for easy browsing.
+**Recipe Conversion Tools**
+- Portion Scaling: Adjust portions up or down easily. Users enter their desired servings, and the ingredient list scales automatically.
+- Measurement Conversions: Convert between units like cups to grams, tablespoons to ounces, and other standard units (including metric to imperial and vice versa). This ensures accurate quantities for any recipe and supports international users.
+
+**Recipe Categories**
+- Recipes are organized into a few primary categories such as Italian, Korean, Filipino, and Baking for easy browsing.
 
 **Community Engagement**
 - Comment System: Users can comment on recipes to share tips or ask questions.
@@ -32,10 +35,11 @@ summary: "TasteShare platform provides essential recipe-browsing, customization,
 
 **User Profiles**
 - Profile Page: Users can view their saved recipes and see their comment history.
+- Friends List: Displays a list of friends, recent activities, and favorite recipes, allowing users to follow friends’ updates and recommendations.
 - Author Status: Frequent contributors can unlock “Author” status, allowing them to submit their own recipes.
 
 **Admin Features**
-- Basic Content Moderation: Admins can review and remove inappropriate comments and recipes.
+- Content Moderation: Admins can review recipes and comments for quality and compliance with community guidelines.
 
 ## Mockup Pages
 
