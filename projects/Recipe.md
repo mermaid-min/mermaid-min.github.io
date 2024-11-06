@@ -38,8 +38,6 @@ Technology Stack
 
 ## Mockup Pages
 
-Here's a more streamlined version of the mockup pages to keep the project manageable:
-
 Landing Page
 
 Header with Login
@@ -70,6 +68,3 @@ Community Commenting: Users share tips on a recipe page, helping each other with
 Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
 Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
 
-## Conclusion
-
-This simplified TasteShare platform provides essential recipe-browsing, customization, and community engagement features without requiring an extensive feature set. This version will give you practical experience in building a dynamic and interactive web application with manageable scope for a student project.
