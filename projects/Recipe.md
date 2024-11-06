@@ -35,7 +35,7 @@ summary: ""
 - Author Status: Frequent contributors can unlock “Author” status, allowing them to submit their own recipes.
 
 **Admin Features**
--Basic Content Moderation: Admins can review and remove inappropriate comments and recipes.
+- Basic Content Moderation: Admins can review and remove inappropriate comments and recipes.
 
 ## Mockup Pages
 
