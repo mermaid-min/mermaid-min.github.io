@@ -63,8 +63,8 @@ Content Moderation: View and manage comments or flagged content.
 
 ## Use Case Scenarios
 
-Recipe Browsing and Portion Adjustment: A user browses for a recipe, adjusts the portions, and follows the updated ingredient list.
-Community Commenting: Users share tips on a recipe page, helping each other with substitutions or preparation ideas.
-Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
-Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
+1. Recipe Browsing and Portion Adjustment: A user browses for a recipe, adjusts the portions, and follows the updated ingredient list.
+2. Community Commenting: Users share tips on a recipe page, helping each other with substitutions or preparation ideas.
+3. Author Unlocking: After regularly contributing comments, a user earns “Author” status and can publish their first recipe.
+4. Basic Admin Moderation: An admin reviews flagged comments or recipes and removes inappropriate content if necessary.
 
