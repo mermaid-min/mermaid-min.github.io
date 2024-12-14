@@ -1,3 +1,4 @@
+
 ---
 layout: essay
 type: essay
@@ -85,6 +86,3 @@ In the future, AI could enhance various aspects of software engineering educatio
 In conclusion, my use of AI in ICS 314 has greatly enhanced my learning experience by providing immediate, personalized assistance and enabling me to better understand complex concepts. ChatGPT, in particular, helped me navigate challenging topics like functional programming, offered guidance on assignments, and facilitated debugging. While I found AI useful for speeding up problem-solving and offering alternative solutions, I also recognized the importance of not becoming overly reliant on it. It is crucial to balance AI usage with independent problem-solving to ensure deeper learning and skill development.
 
 Looking ahead, AI will continue to play a significant role in software engineering education. However, it is essential that AI serves as a tool to support critical thinking and problem-solving, rather than replacing these fundamental skills. By integrating AI into the learning process in a way that encourages active engagement, students can benefit from its capabilities while developing a solid understanding of the material. As AI technology advances, it holds the potential to create more immersive and hands-on learning experiences, preparing students to tackle real-world software engineering challenges.
-
-
-
