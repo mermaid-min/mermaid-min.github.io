@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" src="../img/aiintheclassroom.jpg" class="rounded float-start pe-4">\
+<img width="300px" src="../img/design.jpg" class="img-thumbnail">
 
 # Reflect on My Use of AI in ICS 314
 
