@@ -55,9 +55,8 @@ For writing code I tried it by myself then asked AI at times for its speed. Howe
 
 Documenting code
 For documenting code, I typically wrote my own documentation and then asked ChatGPT to refine it. This helped me ensure the documentation was more formal and error-free.
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
 
-Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors in code”
+Quality assurance e.g. “What’s wrong with my code” or “Fix the ESLint errors in my code”
 I used AI to find issues in my code, and it often provided the correct solution quickly. However, I struggled when the problem involved multiple interconnected files, as AI couldn’t always pinpoint the issue in such complex cases.
 
 Other uses in ICS 314 not listed
