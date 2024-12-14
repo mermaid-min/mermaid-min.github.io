@@ -22,45 +22,45 @@ ChatGPT was especially invaluable due to its ability to retain conversation hist
 
 ## II. Personal Experience with AI:
 
-### Experience WODs e.g. E18
+##### Experience WODs e.g. E18
 I struggled with E18, particularly with the concept of functional programming. It felt overwhelming at first, so I turned to ChatGPT for help in understanding the concept. After gaining some clarity from AI, I attempted to apply the concepts on my own. I then provided AI with some of the data and asked it to generate code for me. It worked well and helped me to finish the assignment.
 
-### In-class Practice WODs
+##### In-class Practice WODs
 For practice WODs, I chose to use my own understanding rather than using AI. I felt it was important to develop my problem-solving abilities, and while I knew using AI might be faster, I believed that working through the problems on my own would be more valuable in the long run. Although this sometimes meant working outside of class to find answers, I found that discussing the problems with classmates was more beneficial to my learning.
 
-### In-class WODs
+##### In-class WODs
 For WODs, I prioritized grades over skill development. When I realized I needed help, I didn't hesitate to use AI. This allowed me to finish tasks more quickly, but it also came with a cost: I had to be cautious in evaluating and correcting AI-generated code to ensure its correctness.
 
-### Essays
+##### Essays
 For essays, I mostly came up with my own ideas and writing. However, I used AI to generate suggestions and ask for rewrites, particularly to ensure my work was free of errors. For instance, I would ask, “Help me rewrite this without errors and suggest better words.” As a person who’s first language is not english this was very useful
 
-### Final project
+##### Final project
 For the final project, I aimed to use the class material as much as possible, but when I ran into debugging issues, I would copy and paste my code into AI and ask, "What's wrong with my code?" Sometimes it provided immediate help, but other times it took longer to pinpoint the problem, especially if the issue wasn’t confined to just one file. Additionally, we used GPT to help create our team agreement dox, which turned out to be a successful and efficient way to get started on the project.
 
-### Learning a concept / tutorial
+##### Learning a concept / tutorial
 When I encountered difficulties understanding certain concepts, I used ChatGPT to break them down. AI was useful in simplifying the material, but occasionally, it oversimplified things. In those cases, I kept asking follow-up questions until I understood the concept correctly.
 Answering a question in class or in Discord
 I didn’t use AI to answer questions in class or on Discord, mainly because I found that AI often used complex language that I didn’t fully understand. I felt it was more effective for me to answer questions based on my own understanding.
 
-### Asking or answering a smart-question
+##### Asking or answering a smart-question
 I did not use AI when asking or answering smart questions. When I asked questions, I knew the issues I was facing and could explain them clearly. Similarly, when answering questions, I felt that I could provide a more detailed and helpful explanation in my own words.
 
-### Coding example e.g. “give an example of using Underscore .pluck”
+##### Coding example e.g. “give an example of using Underscore .pluck”
 For coding examples, I frequently turned to ChatGPT, as it provided various examples at different levels. This helped me understand how to apply a function in real-world coding scenarios.
 
-### Explaining code
+##### Explaining code
 I also relied on AI to explain code when I had trouble understanding it. ChatGPT was helpful in answering all my questions, and I never felt judged for asking basic questions.
 
-### Writing code
+##### Writing code
 For writing code I tried it by myself then asked AI at times for its speed. However, I found that it sometimes overcomplicated the solution. In such cases, I would rewrite the code to make it more efficient or easier to understand.
 
-### Documenting code
+##### Documenting code
 For documenting code, I typically wrote my own documentation and then asked ChatGPT to refine it. This helped me ensure the documentation was more formal and error-free.
 
-### Quality assurance e.g. “What’s wrong with my code” or “Fix the ESLint errors in my code”
+##### Quality assurance e.g. “What’s wrong with my code” or “Fix the ESLint errors in my code”
 I used AI to find issues in my code, and it often provided the correct solution quickly. However, I struggled when the problem involved multiple interconnected files, as AI couldn’t always pinpoint the issue in such complex cases.
 
-### Other uses in ICS 314 not listed
+##### Other uses in ICS 314 not listed
 I faced challenges with using the terminal, which was a crucial tool for most of the work we did this semester. I was not familiar with it at all, especially when it came to npm and npx commands, which were confusing at first. ChatGPT was incredibly helpful in improving my understanding of these concepts. Whenever I encountered errors, I would copy and paste the error messages into ChatGPT, and it would provide various solutions to try, which helped me work through the issues.
 
 ## III. Impact on Learning and Understanding:
