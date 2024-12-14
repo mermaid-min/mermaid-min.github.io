@@ -17,6 +17,7 @@ labels:
 
 ## I. Introduction
 AI has been like a personal tutor for me in ICS 314, helping me improve my learning experience. I mostly used ChatGPT, which was very helpful for tasks in software engineering. AI tools like this can do things like generate code or find problems in it, which lets me focus on understanding concepts. One of the best aspects of using AI was its absence of judgment—it created a safe space for learning. Unlike interacting with people, where I sometimes hesitate to ask questions out of fear of appearing ignorant or unintelligent, AI encouraged me to seek help freely. I could ask everything from simple, foundational questions to more complex ones without fear of judgment.
+
 ChatGPT was especially invaluable due to its ability to retain conversation history, allowing me to revisit previous discussions to address recurring issues or clarify uncertainties. It gave me the freedom to take as much time as I needed to process and understand concepts, ensuring a deeper and more personalized learning experience. For instance, when I struggled with some assignments, I engaged in two- to three-hour conversations with ChatGPT. It patiently suggested different approaches, guiding me step by step to ensure I could successfully complete the tasks.
 
 ## II. Personal Experience with AI:
