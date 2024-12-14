@@ -13,7 +13,6 @@ labels:
 
 <img width="300px" src="../img/eslint.jpg" class="rounded float-start pe-4">
 
-## Reflect on My Use of AI in ICS 314
 # Reflect on My Use of AI in ICS 314
 
 ## I. Introduction
