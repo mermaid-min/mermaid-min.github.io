@@ -15,7 +15,7 @@ At the start of this course, I felt completely overwhelmed. There were so many t
 
 This course went beyond just writing code—it introduced me to the tools and methods that make software development more efficient and manageable. While web development was a big focus, the lessons extended to all kinds of projects. Three key topics stood out to me: **development environments**, **coding standards**, and **user interface (UI) frameworks**. Each of these helped me understand how to create systems that are functional, professional, and scalable.  
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/vscode.png">
 
 ## Development Environments: Setting Up for Success  
 
@@ -25,7 +25,7 @@ One of the most valuable features I used was **GitHub Copilot**, an AI assistant
 
 VSCode also made it easy to manage projects of any size. With its support for extensions and tools like live previews, I could test and adjust my code quickly. The skills I learned in setting up and effectively using a development environment will be helpful in any future project, from web applications to larger software systems.  
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## Coding Standards: Clean, Consistent, and Collaborative  
 
@@ -35,7 +35,7 @@ When you’re working with a team, having everyone write code in the same style 
 
 The impact of coding standards goes beyond web development. Whether I’m building mobile apps or AI models, writing clean and consistent code will make my projects more professional and maintainable. It’s one of the simplest yet most effective ways to reduce stress and avoid mistakes.  
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/userinterface.png">
 
 ## User Interface Frameworks: Building Functional and Flexible Designs  
 
