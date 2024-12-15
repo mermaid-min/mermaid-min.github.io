@@ -25,6 +25,10 @@
       "name": "Languages",
       "keywords": ["Java", "Javascript", "TypeScript", "HTML", "CSS" ]
     },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "VSCode", "Node.js", "PostgreSQL"]
+    },
   ],
   "education": [
     {
