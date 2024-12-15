@@ -4,7 +4,7 @@ type: essay
 title: "A Journey Through Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-14
-published: false
+published: true
 labels:
   - Software Engineering
   - Development Environments
