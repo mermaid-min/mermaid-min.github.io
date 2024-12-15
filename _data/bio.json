@@ -23,16 +23,16 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Java", "Javascript", "TypeScript", "HTML", "CSS" ]
+      "keywords": ["C++", "Java", "Javascript", "TypeScript", "HTML", "CSS" ]
     },
     {
       "name": "Tools",
-      "keywords": ["Git", "VSCode", "Node.js", "PostgreSQL"]
+      "keywords": ["Git/Github", "VSCode", "Node.js", "PostgreSQL"]
     },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawai‘i, Honolulu, HI",
       "area": "Information Computer Science (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2024-08-26",
@@ -41,8 +41,8 @@
       ]
     },
      {
-      "institution": "University of Hawaii at Maui College",
-      "area": "Liberal Arts",
+      "institution": "University of Hawai‘i Maui College",
+      "area": "Liberal Arts (GPA 4.0)",
       "studyType": "A.A.",
       "startDate": "2019-01",
       "endDate": "2023-12",
@@ -53,7 +53,7 @@
   ],
   "work": [
       {
-      "company": "University of Hawaii",
+      "company": "University of Hawai'i",
       "position": "Math Tutor",
       "website": "",
       "startDate": "2024-09",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "company": "University of Hawaii at Maui College",
+      "company": "University of Hawai‘i Maui College",
       "position": "Math tutor",
       "website": "",
       "startDate": "2019-09",
@@ -102,7 +102,14 @@
       ]
     },
   ],
-  
+  "awards": [
+    {
+      "title": "Merit Scholarship for Non US Citizen Students",
+      "date": "2019-2021",
+      "awarder": "University of Hawai‘i Maui College",
+      "summary": "Awarded to international students whose citizenship is outside of the U.S. and who require an F-1 Visa to enroll at UH, with a cumulative 3.3 college GPA or higher will be considered for this scholarship award."
+    },
+    
   "references": [
     {
       "name": "Available upon request"
