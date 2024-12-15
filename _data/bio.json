@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
     { "name": "Data Science" },
     { "name": "Mathematics" },
+    { "name": "Software Engineering" },
     { "name": "Web Development" }
     
   ],
@@ -35,7 +35,17 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+     {
+      "institution": "University of Hawaii at Maui College",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2019-01",
+      "endDate": "2023-12",
+      "courses": [
+      ]
     }
+    
   ],
   "work": [
       {
@@ -46,7 +56,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Working at the Nagatani Center as a tutor/mentor for athletic students."
+        "Provided individualized tutoring for student-athletes, focusing on mastering core math concepts and improving study strategies.", 
+        "Collaborated with academic advisors to track student progress and ensure ongoing support tailored to each student's needs.
+"
       ]
     },
     {
@@ -57,7 +69,8 @@
       "endDate": "2024-05",
       "summary": "",
       "highlights": [
-        "Assisted customer as a cashier, fitting room assistance and organized backroom"
+        "Assisted customers at the cashier and fitting room, providing friendly and efficient service to maintain a positive shopping experience.",
+        "Organized the backroom to ensure smooth inventory flow, maintaining an orderly and accessible workspace for team members."
       ]
     },
     {
@@ -68,7 +81,8 @@
       "endDate": "2020-07",
       "summary": "",
       "highlights": [
-        "Worked in the class as a mentor and at the math lab as a tutor."
+        "Assisted the instructor during lectures by monitoring student exercises and providing one-on-one support to ensure comprehension of class material.",
+        "Acted as an additional resource for students needing clarification on concepts, helping to reinforce learning through real-time assistance during the math lab hours."
       ]
     }
   ],
