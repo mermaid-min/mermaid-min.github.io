@@ -6,7 +6,10 @@ title: "A Journey Through Software Engineering"
 date: 2024-12-14
 published: false
 labels:
-  - Engineering
+  - Software Engineering
+  - Development Environments
+  - Coding Standards
+  - User Interface Framework
 ---
 
 # Reflect on Software Engineering
@@ -35,7 +38,7 @@ When you’re working with a team, having everyone write code in the same style 
 
 The impact of coding standards goes beyond web development. Whether I’m building mobile apps or AI models, writing clean and consistent code will make my projects more professional and maintainable. It’s one of the simplest yet most effective ways to reduce stress and avoid mistakes.  
 
-<img width="200px" class="rounded float-start pe-4" src="../img/userinterface.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/userinterface.jpg">
 
 ## User Interface Frameworks: Building Functional and Flexible Designs  
 
