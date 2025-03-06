@@ -23,11 +23,15 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["C++", "Java", "Javascript", "TypeScript", "HTML", "CSS" ]
+      "keywords": ["C", "C++", "Java", "Javascript", "TypeScript", "Python", "PHP", "SQL" ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["HTML", "CSS", "React", "Bootstrap"]
     },
     {
       "name": "Tools",
-      "keywords": ["Git/Github", "VSCode", "Node.js", "PostgreSQL"]
+      "keywords": ["Git/Github", "VSCode", "Jupyter Notebooks"]
     },
   ],
   "education": [
