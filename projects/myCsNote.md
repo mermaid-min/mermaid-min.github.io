@@ -4,7 +4,7 @@ type: project
 image: img/myCsNote1.png
 title: "myCsNote"
 date: 2024-09-03
-published: true
+published: false
 labels:
   - HTML
   - CSS
