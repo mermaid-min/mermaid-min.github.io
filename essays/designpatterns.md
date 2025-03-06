@@ -5,7 +5,7 @@ title: "Cooking Up Code: How Design Patterns Shape Scalable and Collaborative So
 
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
-published: true
+published: false
 labels:
   - design pattern
   - Web developing
