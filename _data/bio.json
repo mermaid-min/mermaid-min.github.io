@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Minkyeong Kim",
+    "name": "Minkyeong Cadiz",
     "label": "Student",
     "picture": "https://github.com/mermaid-min.png",
     "email": "kim83@hawaii.edu",
@@ -15,15 +15,15 @@
   },
   "interests": [
     { "name": "Data Science" },
-    { "name": "Mathematics" },
-    { "name": "Software Engineering" },
-    { "name": "Web Development" }
+    { "name": "Machine Learning" }
+    { "name": "Software Development" },
+    { "name": "Mathematics" }
     
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["C", "C++", "Java", "Javascript", "TypeScript", "Python", "PHP", "SQL" ]
+      "keywords": ["Python", "Java", "Javascript", "C", "C++", "SQL" ]
     },
     {
       "name": "Web Development",
@@ -66,18 +66,6 @@
       "highlights": [
         "Provided individualized tutoring for student-athletes, focusing on mastering core math concepts and improving study strategies.", 
         "Collaborated with academic advisors to track student progress and ensure ongoing support tailored to each student's needs."
-      ]
-    },
-    {
-      "company": "T.J.Maxx",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "2023-12",
-      "endDate": "2024-05",
-      "summary": "",
-      "highlights": [
-        "Assisted customers at the cashier and fitting room, providing friendly and efficient service to maintain a positive shopping experience.",
-        "Organized the backroom to ensure smooth inventory flow, maintaining an orderly and accessible workspace for team members."
       ]
     },
     {
