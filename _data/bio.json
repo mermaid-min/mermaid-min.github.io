@@ -23,15 +23,15 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "Java", "Javascript", "C", "C++", "SQL" ]
+      "keywords": ["Python", "Java", "Javascript", "C", "SQL" ]
     },
     {
       "name": "Web Development",
-      "keywords": ["HTML", "CSS", "React", "Bootstrap"]
+      "keywords": ["HTML", "CSS", "Next.js", "Node.js"]
     },
     {
       "name": "Tools",
-      "keywords": ["Git/Github", "VSCode", "Jupyter Notebooks"]
+      "keywords": ["Git/Github", "VSCode", "Jupyter", "Linux"]
     },
   ],
   "education": [
@@ -56,30 +56,68 @@
     
   ],
   "work": [
+     {
+      "company": "University of Hawai'i at Manoa",
+      "position": "Computer Support Specialist",
+      "website": "",
+      "startDate": "2025-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Managed and updated the Student Athlete Academic Services website using WordPress.", 
+        "Provided troubleshooting and technical support for students and staff."
+      ]
+    },
       {
-      "company": "University of Hawai'i",
+      "company": "University of Hawai'i at Manoa",
       "position": "Math Tutor",
       "website": "",
       "startDate": "2024-09",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Provided individualized tutoring for student-athletes, focusing on mastering core math concepts and improving study strategies.", 
+        "Provided individualized tutoring for student-athletes.", 
         "Collaborated with academic advisors to track student progress and ensure ongoing support tailored to each student's needs."
       ]
     },
     {
-      "company": "University of Hawai‘i Maui College",
-      "position": "Math tutor",
+      "company": "Subaru Telescope NAOJ, Hilo, HI",
+      "position": "Software Developer Intern ",
       "website": "",
-      "startDate": "2019-09",
-      "endDate": "2020-07",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
       "summary": "",
       "highlights": [
-        "Assisted the instructor during lectures by monitoring student exercises and providing one-on-one support to ensure comprehension of class material.",
-        "Acted as an additional resource for students needing clarification on concepts, helping to reinforce learning through real-time assistance during the math lab hours."
+        "Modernized slit mask design software for the MOIRCS instrument by migrating from IDL to a Python based system.",
+        "Enhanced functionality and performance by integrating with Ginga."
       ]
     }
+  ],
+  "Reasearch": [
+     {
+      "title": "Building a UV Fluorescence Modeling Pipeline for Young Planetary Systems",
+      "position": "Undergraduate Research Assistance",
+      "website": "",
+      "startDate": "2026-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [ 
+        "Refactored 6 Jupyter notebooks into a structured Python package to build a reusable UV fluorescence modeling piple line for young planetary systems.",
+        "Pipeline is reusable for any star with CO gas emission — thousands of targets exist in SPHEREx and SPLICE catalogss."
+      ]
+    },
+    {
+      "title": "Soil Data Extraction",
+      "position": "Undergraduate Research Assistance",
+      "website": "",
+      "startDate": "2025-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed an LLM pipeline to extract structured soil data from scientific datasets.", 
+        "Built evaluation tools including an accuracy matrix for model performance analysis."
+      ]
+    },
   ],
   "volunteer": [
     {
@@ -92,7 +130,7 @@
       "highlights": [
         "Assisted children in learning to play musical instruments, including piano and flute, and in reading and understanding musical notation."
       ]
-    },
+    }
   ],
   "awards": [
     {
